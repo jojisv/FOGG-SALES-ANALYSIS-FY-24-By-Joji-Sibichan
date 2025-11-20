@@ -3,3 +3,5 @@ The goal of this analysis is to understand how the brand performed across revenu
 
 This project demonstrates strong capabilities in data modeling, DAX calculations, data visualization, business interpretation, 
 and the development of an MIS-style performance dashboard tailored for a consumer goods brand.
+
+https://github.com/jojisv/FOGG-SALES-ANALYSIS-FY-24-By-Joji-Sibichan/blob/main/Dashboard.png
